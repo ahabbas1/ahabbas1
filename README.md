@@ -1,4 +1,3 @@
-# Ahmed Abbas
 ## Hi there 👋
 
 
