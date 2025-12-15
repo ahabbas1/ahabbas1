@@ -5,7 +5,7 @@
 Building automation + analytics systems that turn messy operations into clean decisions.
 
 - 🔭 Current focus: workflow automation (n8n), dashboards, and operational analytics  
-- 🧠 Interests: automation, consulting, data products, cybersecurity + compliance  
+- 🧠 Interests: automation, consulting, data products 
 - 📍 Based in: Chicago / Iowa (school)  
 - 🌐 Portfolio: https://ahmedabbas.me  
 - 💼 LinkedIn: https://linkedin.com/in/ahmed-abbas04
@@ -29,7 +29,7 @@ Building automation + analytics systems that turn messy operations into clean de
 ---
 
 ## Featured projects
-✅ Check out my pinned repos below for end-to-end projects (automation + analytics).
+✅ Check out my pinned repos below for end-to-end projects.
 
 ---
 
