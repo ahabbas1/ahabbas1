@@ -20,7 +20,9 @@ Not used by the connectors: Engaged Profiles
 5. Webinar: Call booked
 6. Webinar: Call missed
 
-What starts each workflow: NOT CONFIRMED
+What starts each workflow: "added to segment" (confirmed).
+Which segment starts each workflow: NOT CONFIRMED (assumed to be the matching "Webinar - ..." segment).
+Must test: does adding someone to a segment through the API start the workflow? (Check with the [TEST] contact.)
 
 ## GHL tags (lowercase): NOT CHECKED IN GHL YET
 - webinar - registered
