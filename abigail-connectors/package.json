@@ -1,7 +1,0 @@
-{
-  "name": "abigail-connectors",
-  "private": true,
-  "type": "module",
-  "description": "Webhook connectors for Abigail's webinar funnel (GHL, Flodesk, WebinarJam).",
-  "engines": { "node": ">=20" }
-}
