@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/reconcile.js": { "maxDuration": 300 },
+    "api/retry-failed.js": { "maxDuration": 300 }
+  },
+  "crons": [
+    { "path": "/api/reconcile", "schedule": "0 3 13 11 *" }
+  ]
+}
